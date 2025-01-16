@@ -135,17 +135,17 @@
 
 Взаимодействие пользователей с системой.
 
-![context-diagram](img/context-diagram.png "Контекстная диаграмма")
+![context-diagram](img/context-diagram.png)
 
 ###	Диаграмма контейнеров
 
-![container-diagram](img/container-diagram.png "Диаграмма контейнеров")
+![container-diagram](img/container-diagram.png)
 
 ###	Диаграмма развертывания
 
 Требуемые мощности для развертывания системы.
 
-![deployment-diagram](img/deploy-diagram.png "Диаграмма развертывания")
+![deployment-diagram](img/deploy-diagram.png)
 
 ###	Диаграммы последовательности для пользовательских сценариев
 
