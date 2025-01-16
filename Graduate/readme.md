@@ -2,20 +2,20 @@
 
 ## Содержание
 
-- [Описание проблемы](#business-case)
+* [Описание проблемы](#business-case)
 	- [Бизнес контекст](#business-context)  
 	- [Бизнес цели](#business-targets)  
 	- [Стейкхолдеры](#stakeholders)
 	- [Ограничения технологические и бизнесовые](#constraints)
-- [Описание требований](#requirements)
+* [Описание требований](#requirements)
     - [Пользовательские сценарии](#user-cases)
 	- [Сценарии для атрибутов качества](#qa-cases)
-- [Описание решения](#solution)
+* [Описание решения](#solution)
 	- [Контекстная диаграмма](#context-diagram)  
 	- [Диаграмма контейнеров](#container-diagram)  
 	- [Диаграмма развертывания](#deployment-diagram)
 	- [Диаграммы последовательности для пользовательских сценариев](#sequence-diagram)
-- [ADR/ADL](#adr)
+* [ADR/ADL](#adr)
 
 ## Описание проблемы
 
@@ -135,17 +135,17 @@
 
 Взаимодействие пользователей с системой.
 
-![context-diagram](img/context-diagram.png)
+![context-diagram](img/context_diagram.png)
 
 ###	Диаграмма контейнеров
 
-![container-diagram](img/container-diagram.png)
+![container-diagram](img/container_diagram.png)
 
 ###	Диаграмма развертывания
 
 Требуемые мощности для развертывания системы.
 
-![deployment-diagram](img/deploy-diagram.png)
+![deployment-diagram](img/deploy_diagram.png)
 
 ###	Диаграммы последовательности для пользовательских сценариев
 
